@@ -1,0 +1,1 @@
+# news-management-test-migroup
